@@ -1,0 +1,10 @@
+*.pyc
+*~
+__pycache__
+myvenv
+poll_project
+testproject
+testsite
+db.sqlite3
+/static
+.DS_Store
